@@ -1,0 +1,17 @@
+{
+    "name": "Adapters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9bb62dee01884b84dad3840759e198e1",
+        "GUID:9d7efd2d49cdbb744a62e62d4a08f00d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
